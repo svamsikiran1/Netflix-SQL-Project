@@ -30,7 +30,7 @@ Analyze the **Netflix Originals** dataset to:
 
 ---
 
-## 🛠️ How to Run in MySQL Workbench
+## 🛠️ How to Run in MS SQL SERVER Workbench
 1. Create and open a new database:
    ```sql
    CREATE DATABASE Netflix1;
