@@ -1,5 +1,5 @@
 # Netflix-SQL-Project
-SQL project from Internshala analyzing Netflix Originals dataset using MySQL — exploring IMDb scores, genres, and runtime insights.
+SQL project from Internshala analyzing Netflix Originals dataset using MS SQL SERVER — exploring IMDb scores, genres, and runtime insights.
 
 # 🎬 Netflix SQL Project — Data Analysis (Internshala)
 
